@@ -1,7 +1,7 @@
 name: Workflow Commands
 on: [push]
 
-jons:
+jobs:
     resting-wf-commands:
         runs-on: ubuntu-latest
         steps:
