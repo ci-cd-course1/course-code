@@ -20,8 +20,8 @@ on:
             - main
         paths:
             - "**.js"
-    issues: 
-        types: [opened]
+    # issues: 
+    #     types: [opened]
 
 jobs:
     checkout-test:
